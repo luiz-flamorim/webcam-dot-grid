@@ -2,10 +2,6 @@
 
 This p5.js sketch captures live webcam input and visualises it as a grid of animated dots. The dot sizes react to brightness values, creating a pixelated yet organic representation of the video feed. The sketch maintains the webcam's aspect ratio while adapting to any screen size, and uses a mirrored display for a more intuitive experience.
 
-## Live Demo
-
-[Insert live demo URL here, if hosted online]
-
 ## Features
 
 - Live webcam capture using `createCapture(VIDEO)`
